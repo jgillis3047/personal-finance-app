@@ -8,6 +8,16 @@ SQLite file on this computer. No accounts, no cloud, no subscriptions, no bank l
 
 ---
 
+## Screenshots
+
+*Personal figures, merchants and statement notes are blurred.*
+
+**Overview:** plain-language findings from imported statements, plus monthly actuals
+![Overview](screenshots/overview.png)
+
+**Transactions:** filters, spending by category and top merchants
+![Transactions](screenshots/transactions.png)
+
 ## Setup on Windows (one time)
 
 1. Install **Python 3.12 or 3.13** from <https://www.python.org/downloads/>.
